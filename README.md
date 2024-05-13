@@ -1,11 +1,13 @@
 ### Welcome! I'm Flávia Lopes 😊
 #### Quality Assurance Tester 💻🚀
 
-• Successfully, I am completed the Quality Assurance Tester Academy (Rumos) and achieved **ISTQB® CTFL v4.0 certification**🏆 . 
-• Eager to leverage these qualifications and learn continuously, I am looking for an opportunity in the software testing area.
+• Successfully, I am completed the Quality Assurance Tester Academy (Rumos) and achieved **ISTQB® CTFL v4.0 certification**🏆.
+
+• Eager to leverage these qualifications and learn continuously, I am looking for an opportunity in the software testing area 💻.
+
 •**Passionate about quality🌟**.
 
-#### 💻 Languages and Tools I'm focused on:
+#### Languages and Tools I'm focused on:
 
 <div display="inline">
 <img width='50' heigth='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
