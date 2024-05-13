@@ -21,6 +21,6 @@
 <a href="https://www.linkedin.com/in/flaviadsl/">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 <a/>          
-<a href="https://mail.google.com/flaviadslopes20/">
+<a href="https:www.flaviadslopes20@gmail.com/">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 <a/>
