@@ -1,4 +1,5 @@
 ### Welcome! I'm Flávia Lopes 😊
+##
 #### Quality Assurance Tester 💻🚀
 
 • Successfully, I am completed the Quality Assurance Tester Academy (Rumos) and achieved **ISTQB® CTFL v4.0 certification**🏆.
@@ -17,7 +18,7 @@
 
 ##
 
-#### 📫 You can reach me to:
+#### 📫 You can reach me:
 
 <a href="https://www.linkedin.com/in/flaviadsl/">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
