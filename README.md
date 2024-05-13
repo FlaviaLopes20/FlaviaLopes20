@@ -1,16 +1,24 @@
-### Hi there 👋
+### Welcome! I'm Flávia Lopes 😊
+#### Quality Assurance Tester 💻🚀
 
-<!--
-**FlaviaLopes20/FlaviaLopes20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+• Successfully, I am completed the Quality Assurance Tester Academy (Rumos) and achieved **ISTQB® CTFL v4.0 certification**🏆 . 
+• Eager to leverage these qualifications and learn continuously, I am looking for an opportunity in the software testing area.
+•**Passionate about quality🌟**.
 
-Here are some ideas to get you started:
+#### 💻 Languages and Tools I'm focused on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div display="inline">
+<img width='50' heigth='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+<img width='50' heigth='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+</div>
+
+##
+
+#### 📫 You can reach me to:
+
+<a href="https://www.linkedin.com/in/flaviadsl/">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a/>          
+<a href="flaviadslopes20@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a/>
